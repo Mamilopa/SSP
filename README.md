@@ -1,0 +1,2 @@
+# SSP
+SecretSanta project
